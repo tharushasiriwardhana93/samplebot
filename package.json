@@ -1,0 +1,9 @@
+{
+  "name": "perabots-2026",
+  "version": "1.0.0",
+  "description": "PeraBots 2026 website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
